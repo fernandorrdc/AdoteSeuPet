@@ -6,7 +6,7 @@ import Input from '../../form/Input'
 
 /*  hooks  */
 import useFlashMessage from '../../../hooks/useFlashMessage'
-import RoundedImage from '../../layout/RoundedImage'
+import RoundedImage from '../../Layout/RoundedImage'
 
 function Profile() {
 
