@@ -1,6 +1,6 @@
 git commit -m
 
-Arvore do frontend/
+Estrutura de pastas do frontend/
 ├── public/
 └── src/
     ├── assets/
